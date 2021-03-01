@@ -1,0 +1,22 @@
+body{
+    background-color:rgb(252, 189, 189);
+}
+.header img{
+    height :80px;
+    width: 80px;
+    margin-left:100px;
+
+
+}
+.header{
+    display: flex;
+    margin: 0 auto;
+    text-align: center;
+    margin-left:400px;
+}
+.logo{
+    margin-top: 10px;
+}
+.title{
+    margin-top: 12px;
+}

@@ -1,0 +1,18 @@
+.player-container{
+    display: flex-column;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    margin-right: 20px;
+    margin-top: 50px;
+    box-shadow: azure;
+
+}
+.player-Details{
+    color:rgb(2, 78, 2);
+    font-weight: 400;
+}
+.player-img{
+    width: 300px;
+    margin:0 auto;
+    padding:10px;
+}
